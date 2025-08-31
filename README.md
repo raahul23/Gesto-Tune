@@ -24,9 +24,3 @@ A Python-based real-time system that allows users to control their computer's vo
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/hand-gesture-volume-control.git
-   cd hand-gesture-volume-control
